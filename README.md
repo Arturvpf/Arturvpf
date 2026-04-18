@@ -1,4 +1,4 @@
-# Artur Vinicius Perera Fernandes
+# Artur Fernandes
 
 **Computer Engineering — CIn/UFPE, Recife, Brazil**
 
@@ -10,12 +10,13 @@
 
 ## About
 
-I'm a Computer Engineering student with a focus on **Data Engineering**, **Data Science**, **Back-End*, and *Machine Learning / Generative AI**. 
-- **Data Engineering & Data Science** — pipelines, analysis, modeling
-- 
-- **Machine Learning & Generative AI** — model training, LLM APIs, fine-tuning
-- **Teaching Assistant** at CIn/UFPE — Algorithms & Data Structures and Programming Paradigms (OOP/Java)
+I'm a Computer Engineering student with a focus on **Data Engineering**, **Data Science**, and **Machine Learning / Generative AI**. I enjoy building data pipelines, extracting insights from complex datasets, and applying ML to real problems.
 
+- **Data Engineering & Data Science** — pipelines, analysis, modeling
+- **Machine Learning & Generative AI** — model training, LLM APIs, fine-tuning
+- **Backend Development** — APIs and data-driven applications
+- **Teaching Assistant** at CIn/UFPE — Algorithms & Data Structures and Programming Paradigms (OOP/Java)
+- Open to internships in Data Engineering, Data Science, and ML
 
 ---
 
@@ -54,9 +55,9 @@ I'm a Computer Engineering student with a focus on **Data Engineering**, **Data 
 | Project | Description | Stack |
 |:--------|:------------|:------|
 | **GPS Spoofing Detection** | ML pipeline to detect GPS spoofing attacks via time-series signal analysis | Python · PyTorch · XGBoost · scikit-learn |
-| **RISC-V Processor** | Custom processor with full ISA implementation | SystemVerilog |
+| **University Course Evaluation DB** | Relational database system for managing course evaluations — schema design, constraints, and advanced SQL queries | SQL · Oracle |
 | **Pintos OS Kernel** | OS kernel with scheduling, memory management & file system | C |
-| **Niryo Robotic Arm** | Control system for a 6-DoF robotic arm | C |
+| **Search Algorithms Visualizer** | Autonomous agent navigating a 2D grid using BFS, DFS, UCS, Greedy and A* — animated step-by-step in the browser | JavaScript · p5.js |
 | **Console Driver + Pygame** | Hardware device driver integrated with Pygame for real-time I/O | Python · C |
 
 ---
