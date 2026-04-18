@@ -1,4 +1,4 @@
-# Artur Fernandes
+# Artur Vinicius Perera Fernandes
 
 **Computer Engineering — CIn/UFPE, Recife, Brazil**
 
