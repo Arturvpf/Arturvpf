@@ -10,12 +10,12 @@
 
 ## About
 
-I'm a Computer Engineering student with a focus on **Data Engineering**, **Data Science**, and **Machine Learning / Generative AI**. I enjoy building data pipelines, extracting insights from complex datasets, and applying ML to real problems.
-
+I'm a Computer Engineering student with a focus on **Data Engineering**, **Data Science**, **Back-End*, and *Machine Learning / Generative AI**. 
 - **Data Engineering & Data Science** — pipelines, analysis, modeling
+- 
 - **Machine Learning & Generative AI** — model training, LLM APIs, fine-tuning
 - **Teaching Assistant** at CIn/UFPE — Algorithms & Data Structures and Programming Paradigms (OOP/Java)
-- Open to internships in Data Engineering, Data Science, and ML
+
 
 ---
 
