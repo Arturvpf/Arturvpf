@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Artur%20Fernandes&fontSize=52&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Data%20Science%20%7C%20Machine%20Learning&descAlignY=56&descAlign=50&descColor=ffffff&descSize=18" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Artur%20Fernandes&fontSize=52&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Data%20Science%20%7C%20Machine%20Learning&descAlignY=56&descAlign=50&descColor=ffffff&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-vin%C3%ADcius-pereira-fernandes/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturvpf3@gmail.com)
-  ![Profile Views](https://komarev.com/ghpvc/?username=Arturvpf&color=e94560&style=for-the-badge&label=PROFILE+VIEWS)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-vin%C3%ADcius-pereira-fernandes/)
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturvpf3@gmail.com)
+ ![Profile Views](https://komarev.com/ghpvc/?username=Arturvpf&color=e94560&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -18,11 +18,11 @@ Computer Engineering student at **CIn/UFPE** — ranked among **Latin America's 
 
 I build intelligent systems and extract meaningful insights from complex data. My focus is **Machine Learning**, **Data Science**, and **Generative AI**, with hands-on experience in signal processing, anomaly detection, and agentic systems.
 
-- 🎓 **B.Sc. Computer Engineering** — Center of Informatics, UFPE (Recife, Brazil)
-- 🏫 **Teaching Assistant** for 2 core CS courses, supporting 100+ students per semester
-- 🛰️ **Research:** GPS Spoofing detection using ML on time-series signal data
-- 🤖 **Generative AI:** Fine-tuned LLMs, built AI agents, worked with OpenAI & Anthropic APIs
-- 🌎 **Open to:** Data Science, ML Engineering & Backend internships — on-site or remote
+- **B.Sc. Computer Engineering** — Center of Informatics, UFPE (Recife, Brazil)
+- **Teaching Assistant** for 2 core CS courses, supporting 100+ students per semester
+- **Research:** GPS Spoofing detection using ML on time-series signal data
+- **Generative AI:** Fine-tuned LLMs, built AI agents, worked with OpenAI & Anthropic APIs
+- **Open to:** Data Science, ML Engineering & Backend internships — on-site or remote
 
 ---
 
@@ -72,11 +72,11 @@ I build intelligent systems and extract meaningful insights from complex data. M
 
 | Project | Description | Stack | Highlights |
 |:--------|:------------|:------|:-----------|
-| 🛰️ **GPS Spoofing Detection** | ML pipeline to detect GPS spoofing attacks via time-series signal analysis | Python · PyTorch · XGBoost · scikit-learn | Cybersecurity × AI research |
-| 🖥️ **RISC-V Processor** | Custom processor implementation with full ISA in SystemVerilog | SystemVerilog | Low-level architecture design |
-| 🐧 **Pintos OS Kernel** | OS kernel with scheduling, memory management & file system | C | Systems programming |
-| 🦾 **Niryo Robotic Arm** | Control system for a 6-DoF robotic arm in academic lab | C | Real-time hardware control |
-| 🎮 **Console Driver + Pygame** | Custom hardware device driver integrated with Pygame for real-time I/O | Python · C | Driver development |
+| **GPS Spoofing Detection** | ML pipeline to detect GPS spoofing attacks via time-series signal analysis | Python · PyTorch · XGBoost · scikit-learn | Cybersecurity × AI research |
+| **RISC-V Processor** | Custom processor implementation with full ISA in SystemVerilog | SystemVerilog | Low-level architecture design |
+| **Pintos OS Kernel** | OS kernel with scheduling, memory management & file system | C | Systems programming |
+| **Niryo Robotic Arm** | Control system for a 6-DoF robotic arm in academic lab | C | Real-time hardware control |
+| **Console Driver + Pygame** | Custom hardware device driver integrated with Pygame for real-time I/O | Python · C | Driver development |
 
 ---
 
@@ -94,12 +94,12 @@ Supporting two core Computer Science courses for 100+ students per semester:
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arturvpf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturvpf&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=ffffff"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arturvpf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=ffffff"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturvpf&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arturvpf&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arturvpf&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560"/>
 </div>
 
 ---
@@ -114,5 +114,5 @@ Supporting two core Computer Science courses for 100+ students per semester:
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" width="100%"/>
 </div>
