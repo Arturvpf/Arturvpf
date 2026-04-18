@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a **Computer Engineering student** at the [Center of Informatics — CIn/UFPE](https://www.cin.ufpe.br/), one of **Latin America's top Computer Science institutions**, based in **Recife, Brazil**.
 
@@ -30,13 +30,13 @@ artur = {
     "experience":   ["Teaching Assistant — Algorithms & Data Structures",
                      "Teaching Assistant — Programming Paradigms (OOP/Java)"],
     "interests":    ["Signal Processing", "Anomaly Detection", "LLM Fine-Tuning"],
-    "open_to":      "Data Science & Backend Internships 🚀",
+    "open_to":      "Data Science & Backend Internships ",
 }
 ```
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -80,7 +80,7 @@ artur = {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arturvpf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=ffffff"/>
@@ -93,41 +93,41 @@ artur = {
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-| 🔬 Project | 📝 Description | 🛠️ Tech Stack |
+|  Project |  Description |  Tech Stack |
 |:-----------|:--------------|:-------------|
-| 🛰️ **GPS Spoofing Detection** | ML-based detection of GPS spoofing attacks through signal time-series analysis — cybersecurity meets AI | Python · PyTorch · scikit-learn · XGBoost |
-| 🦾 **Niryo Robotic Arm** | Control system for a robotic arm in academic robotics environment | C |
-| 🖥️ **RISC-V Architecture** | Custom ISA implementation with full instruction set in SystemVerilog | SystemVerilog |
-| 🐧 **Pintos OS** | Operating system kernel development — scheduling, memory management | C |
-| 🎮 **Console Driver + Pygame** | Hardware device driver integration with Pygame for real-time interaction | Python · C |
+|  **GPS Spoofing Detection** | ML-based detection of GPS spoofing attacks through signal time-series analysis — cybersecurity meets AI | Python · PyTorch · scikit-learn · XGBoost |
+|  **Niryo Robotic Arm** | Control system for a robotic arm in academic robotics environment | C |
+|  **RISC-V Architecture** | Custom ISA implementation with full instruction set in SystemVerilog | SystemVerilog |
+|  **Pintos OS** | Operating system kernel development — scheduling, memory management | C |
+|  **Console Driver + Pygame** | Hardware device driver integration with Pygame for real-time interaction | Python · C |
 
 ---
 
-## 🎓 Teaching Experience
+##  Teaching Experience
 
 I've been a **Teaching Assistant at CIn/UFPE** since September 2025 in two core CS courses:
 
-- 📌 **Algorithms & Data Structures** — mentoring students, clarifying concepts, grading, and creating support materials
-- 📌 **Programming Paradigms** (OOP focus with Java) — guiding students through object-oriented design principles and Java fundamentals
+-  **Algorithms & Data Structures** — mentoring students, clarifying concepts, grading, and creating support materials
+-  **Programming Paradigms** (OOP focus with Java) — guiding students through object-oriented design principles and Java fundamentals
 
 ---
 
-## 🤖 AI & Generative AI
+##  AI & Generative AI
 
 Beyond traditional ML, I work with modern AI tooling:
 
-- 🔧 **LLM APIs** — hands-on experience with OpenAI and Anthropic Claude APIs
-- ⚙️ **Agentic Systems** — built and used AI agents for real-world automation workflows  
-- 🧪 **Fine-Tuning** — fine-tuned language models for domain-specific tasks
-- 💬 **Prompt Engineering** — developed structured prompting strategies to optimize LLM outputs
+-  **LLM APIs** — hands-on experience with OpenAI and Anthropic Claude APIs
+-  **Agentic Systems** — built and used AI agents for real-world automation workflows  
+-  **Fine-Tuning** — fine-tuned language models for domain-specific tasks
+-  **Prompt Engineering** — developed structured prompting strategies to optimize LLM outputs
 
 ---
 
 <div align="center">
 
-### 💬 Let's connect and build something great together!
+###  Let's connect and build something great together!
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-vin%C3%ADcius-pereira-fernandes/)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturvpf3@gmail.com)
