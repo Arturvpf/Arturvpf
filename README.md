@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturvpf)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arturvpf3@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Arturvpf&color=blue&style=flat-square)
 
 ---
 
